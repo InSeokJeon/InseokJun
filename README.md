@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInSeokJub&count_bg=%23000080&title_bg=%23000080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=True)](https://hits.seeyoufarm.com)
 
-### Hello, Future Innovators! 👋
+### **Hello, Future Innovators**! 👋
 
 I'm In seok Jun, a passionate developer with a focus on **Autonomous Driving and Deep Learning**.  
 Currently, I am working on cutting-edge projects to make Self-driving cars safer and more intelligent.  
@@ -11,17 +11,17 @@ Join me in shaping a future where Self-driving cars redefine transportation.
 - 💬 Ask me about anything related to **Autonomous Driving or Deep Learning**.
 - 📫 How to reach me: [sunlight3919@gmail.com]
 
-#### 🖼️ Object Detection and Image Segmentation:
+#### 🖼️ **Object Detection and Image Segmentation**:
 Currently, my focus revolves around advancing the fields of **Object Detection and Image Segmentation**.   
 These technologies are the cornerstone of building intelligent systems, especially in the realm of Autonomous Driving.
 
-#### 🌐 LIDAR Point Cloud and Image Fusion:
+#### 🌐 **LIDAR Point Cloud and Image Fusion**:
 Beyond that, I find joy in delving into the realm where LIDAR Point Cloud and Image data intersect.   
 Exploring the synergies between these modalities presents exciting opportunities for enhancing **Perception in Autonomous Systems**.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InseokJun&show_icons=true&theme=midnight-purple)
 
-### Connect with Me 🚀
+### **Connect with Me** 🚀
 
 [![Notion](https://img.shields.io/badge/notion-0052FF?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/InSeok-s-Blog-3143fb7026fa436dbaf90bbd5366d014)
 [![Instagram](https://img.shields.io/badge/Instagram-3B00B9?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/moonlight._._01)
