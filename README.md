@@ -23,6 +23,6 @@ Exploring the synergies between these modalities presents exciting opportunities
 
 ### Connect with Me 🚀
 
-[![Notion](https://img.shields.io/badge/notion-0052FF?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/cd91c848851e46e68129d5214eef2b7a)
+[![Notion](https://img.shields.io/badge/notion-0052FF?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/InSeok-s-Blog-3143fb7026fa436dbaf90bbd5366d014)
 [![Instagram](https://img.shields.io/badge/Instagram-3B00B9?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/moonlight._._01)
 [![Gmail](https://img.shields.io/badge/gmail-001E62?style=flat-square&logo=Gmail&logoColor=white)](mailto:sunlight3919@gmail.com)
