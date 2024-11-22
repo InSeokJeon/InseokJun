@@ -2,22 +2,13 @@
 
 ### **Hello, Future Innovators**! 👋
 
-I'm In seok Jeon, a passionate developer with a focus on **Autonomous Driving and Deep Learning**.  
-Currently, I am working on cutting-edge projects to make Self-driving cars safer and more intelligent.  
-Join me in shaping a future where Self-driving cars redefine transportation.
+I'm In seok Jeon, a passionate developer with a focus on **Deep Learning - Vision Task**.  
 
-- 🚗 I’m currently working on **Autonomous vehicle algorithms**.
 - 🧠 I’m continuously learning about the latest advancements in **Deep Learning and Computer Vision**.
-- 💬 Ask me about anything related to **Autonomous Driving or Deep Learning**.
 - 📫 How to reach me: [sunlight3919@gmail.com]
 
-#### 🖼️ **Object Detection and Video Segmentation**:
-Currently, my focus revolves around advancing the fields of **Object Detection and Video Segmentation**.   
-These technologies are the cornerstone of building intelligent systems, especially in the realm of Autonomous Driving.
-
-#### 🌐 **LIDAR Point Cloud and Image Fusion**:
-Beyond that, I find joy in delving into the realm where LIDAR Point Cloud and Image data intersect.   
-Exploring the synergies between these modalities presents exciting opportunities for enhancing **Perception in Autonomous Systems**.
+#### 🖼️ **Video Segmentation**:
+Currently, my focus revolves around advancing the fields of **Video Segmentation**.   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InseokJun&show_icons=true&theme=midnight-purple)
 
