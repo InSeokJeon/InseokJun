@@ -11,8 +11,8 @@ Join me in shaping a future where Self-driving cars redefine transportation.
 - 💬 Ask me about anything related to **Autonomous Driving or Deep Learning**.
 - 📫 How to reach me: [sunlight3919@gmail.com]
 
-#### 🖼️ **Object Detection and Image Segmentation**:
-Currently, my focus revolves around advancing the fields of **Object Detection and Image Segmentation**.   
+#### 🖼️ **Object Detection and Video Segmentation**:
+Currently, my focus revolves around advancing the fields of **Object Detection and Video Segmentation**.   
 These technologies are the cornerstone of building intelligent systems, especially in the realm of Autonomous Driving.
 
 #### 🌐 **LIDAR Point Cloud and Image Fusion**:
