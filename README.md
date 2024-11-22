@@ -2,7 +2,7 @@
 
 ### **Hello, Future Innovators**! 👋
 
-I'm In seok Jun, a passionate developer with a focus on **Autonomous Driving and Deep Learning**.  
+I'm In seok Jeon, a passionate developer with a focus on **Autonomous Driving and Deep Learning**.  
 Currently, I am working on cutting-edge projects to make Self-driving cars safer and more intelligent.  
 Join me in shaping a future where Self-driving cars redefine transportation.
 
